@@ -1,0 +1,4 @@
+/home/brian/pa_test/build/CMakeFiles/rebuild_cache.dir
+/home/brian/pa_test/build/CMakeFiles/edit_cache.dir
+/home/brian/pa_test/build/CMakeFiles/paex_record.dir
+/home/brian/pa_test/build/CMakeFiles/pa_devs.dir
