@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--enable-auto-import CMakeFiles/paex_record.dir/paex_record.c.o -o bin/paex_record.exe -Wl,--out-implib,libpaex_record.dll.a -Wl,--major-image-version,0,--minor-image-version,0  /usr/local/include/portaudio/lib/libportaudio.a -lm -lpthread 
